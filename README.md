@@ -6,7 +6,7 @@ RSA encrypted columns.
 
 Installation
 ------------
-    gem install qhoxie-rcrypt qhoxie-dm-encrypted --source http://gems.github.com
+    gem install rcrypt dm-encrypted --source http://gemcutter.org
 
 Usage
 -----
